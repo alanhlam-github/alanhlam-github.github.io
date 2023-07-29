@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <html>
@@ -12,7 +13,7 @@
 <meta name="author" content="By Alan Lam" />
 
 
-<title>Facebook ads vs. Google ads</title>
+<title>Facebook ads vs. Google ads</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -5205,7 +5206,7 @@ border-radius: 0px;
 
 
 
-<h1 class="title toc-ignore">Facebook ads vs. Google ads</h1>
+<h1 class="title toc-ignore">Facebook ads vs. Google ads</h1>
 <h4 class="author">By Alan Lam</h4>
 
 </div>
